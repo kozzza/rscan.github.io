@@ -1,7 +1,7 @@
 ## R'Scan Privacy Policy & Terms of Service
 
 ### Your Data Security
-R'Scan does not store your credentials anywhere except for on your device. The only time your credentials leave your device are to make secure HTTP requests to the [UCR cas SSO endpoint](https://auth.ucr.edu/cas/login?service=https%3A%2F%2Finnosoftfusiongo.com%2Fsso%2Flogin%2Flogin-process-cas.php). Your data is contained in the payload and sent over TLSv1.2.
+R'Scan does not store your credentials anywhere except for on your device. The only time your credentials leave your device is to make secure HTTP requests to the [UCR cas SSO endpoint](https://auth.ucr.edu/cas/login?service=https%3A%2F%2Finnosoftfusiongo.com%2Fsso%2Flogin%2Flogin-process-cas.php). Your data is contained in the payload and sent over TLSv1.2.
 
 ### Transparency
 The backend and frontend of the app are opensourced at [src128](https://github.com/kozzza/src128) and [rscan](https://github.com/kozzza/rscan) respectively. All of the code in these repositories is up to date with the production version of the project.
