@@ -6,7 +6,7 @@ R'Scan does not store your credentials anywhere except for on your device. The o
 ### Transparency
 The backend and frontend of the app are opensourced at [src128](https://github.com/kozzza/src128) and [rscan](https://github.com/kozzza/rscan) respectively. All of the code in these repositories is up to date with the production version of the project.
 
-You can check out the API [here](https://src-128.herokuapp.com/), hosted on Digital Ocean.
+You can check out the API [here](https://src128.fly.dev), hosted on Fly.io.
 
 ### Logging
 R'Scan logs runtime errors and debug information like response payloads. However, none of these logs contain any sensitive information pertaining to the user (such as credentials).
